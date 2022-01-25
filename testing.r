@@ -1,7 +1,7 @@
 ### This is from git
 print("Hello from github")
 
-name = "Muneeb"
+name = "Muneeb-pervaiz"
 version = "RStudio - in writting"
 
 print(name)
